@@ -96,7 +96,7 @@ void handleMenuInput(Employee*& pHead, Command command)
         removeAllEmployee(pHead);
         break;
 	case Command::exit:
-		std::cout << "Exiting\n";
+		std::cout << "Exiting... See u\n";
 		break;
 	default:
 		std::cout << "Invalid input.\n";

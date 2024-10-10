@@ -1,2 +1,3 @@
 # simple-employee-list-menu
-Just a simple employee list with id and name
+A simple employee management list, include add, remove and review
+C++ practice
